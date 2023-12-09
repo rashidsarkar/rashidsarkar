@@ -62,8 +62,7 @@ With a solid year of experience in the field, I specialize in crafting delightfu
   </a>
 </div>
 
-- Contribution Calendar:
-  ![Your Contribution Calendar](https://github.com/rashidsarkar/rashidsarkar/blob/main/contribution-calendar.png)
+<!-- - Contribution Calendar: -->
 
 🛠️ **Technologies I Use:**
 
@@ -95,7 +94,7 @@ With a solid year of experience in the field, I specialize in crafting delightfu
     <img src="https://img.icons8.com/color/96/000000/linkedin-circled.png" alt="LinkedIn"/>
   </a>
   &nbsp;&nbsp;
-  <a href="rashidrock1234@gmail.com" target="_blank">
+  <a href="mailto:rashidrock1234@gmail.com" target="_blank">
     <img src="https://img.icons8.com/color/96/000000/email.png" alt="Email"/>
   </a>
   &nbsp;&nbsp;

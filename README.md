@@ -30,6 +30,29 @@ With a solid year of experience in the field, I specialize in crafting delightfu
 
 <!-- Add more sections or details as needed -->
 
+🛠️ **Technologies I Use:**
+
+<br>
+<p align="center">
+  <img src="./images/HTML.svg" alt="HTML" width="60"/>
+  <img src="./images/CSS.svg" alt="CSS" width="60"/>
+  <img src="./images/JavaScript.svg" alt="JavaScript" width="60"/>
+</p>
+
+<p align="center">
+  <img src="./images/React-Dark.svg" alt="React" width="60"/>
+  <img src="./images/TailwindCSS-Dark.svg" alt="Tailwind CSS" width="60"/>
+  <img src="./images/Bootstrap.svg" alt="Bootstrap" width="60"/>
+  <img src="./images/Firebase-Dark.svg" alt="Firebase" width="60"/>
+</p>
+
+<p align="center">
+  <img src="./images/NodeJS-Dark.svg" alt="Node.js" width="60"/>
+  <img src="./images/ExpressJS-Dark.svg" alt="Express.js" width="60"/>
+  <img src="./images/MongoDB.svg" alt="MongoDB" width="60"/>
+</p>
+<br/>
+
 💼 **Current Stats:**
 
 <div align="center">
@@ -63,29 +86,6 @@ With a solid year of experience in the field, I specialize in crafting delightfu
 </div>
 
 <!-- - Contribution Calendar: -->
-
-🛠️ **Technologies I Use:**
-
-<br>
-<p align="center">
-  <img src="./images/HTML.svg" alt="HTML" width="60"/>
-  <img src="./images/CSS.svg" alt="CSS" width="60"/>
-  <img src="./images/JavaScript.svg" alt="JavaScript" width="60"/>
-</p>
-
-<p align="center">
-  <img src="./images/React-Dark.svg" alt="React" width="60"/>
-  <img src="./images/TailwindCSS-Dark.svg" alt="Tailwind CSS" width="60"/>
-  <img src="./images/Bootstrap.svg" alt="Bootstrap" width="60"/>
-  <img src="./images/Firebase-Dark.svg" alt="Firebase" width="60"/>
-</p>
-
-<p align="center">
-  <img src="./images/NodeJS-Dark.svg" alt="Node.js" width="60"/>
-  <img src="./images/ExpressJS-Dark.svg" alt="Express.js" width="60"/>
-  <img src="./images/MongoDB.svg" alt="MongoDB" width="60"/>
-</p>
-<br/>
 
 # Connect with Me:
 

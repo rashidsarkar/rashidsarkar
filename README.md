@@ -100,7 +100,7 @@ With a solid year of experience in the field, I specialize in crafting delightfu
   - Pioneered the development of Luxe, a modern living platform using React, Node.js, and MongoDB.
   - Implemented cutting-edge features such as hassle-free coupon management, intuitive checkout processes with applied discounts, seamless agreement creation, and transparent payment history tracking.
 
-  ### Rongila - Wedding Planner Website
+### Rongila - Wedding Planner Website
 
 - **Live Site:** [Rongila Wedding Planner](#)
 - **Key Features:**

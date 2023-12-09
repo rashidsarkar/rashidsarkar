@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./images/Untitled (5).png" alt="Header">
+  <img src="./images/Untitled (6).png" alt="Header">
 </div>
 
 # MERN Stack Developer 🚀 | React.js & Express Enthusiast 💻 | MongoDB Magician 🧙‍♂️
@@ -137,7 +137,7 @@ With a solid year of experience in the field, I specialize in crafting delightfu
     <img src="https://img.icons8.com/color/96/000000/linkedin-circled.png" alt="LinkedIn"/>
   </a>
   &nbsp;&nbsp;
-  <a href="mailto:rashidrock1234@gmail.com" target="_blank">
+  <a href="mailto:rashidsarkar558@gmail.com" target="_blank">
     <img src="https://img.icons8.com/color/96/000000/email.png" alt="Email"/>
   </a>
   &nbsp;&nbsp;

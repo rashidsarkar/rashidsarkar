@@ -87,6 +87,36 @@ With a solid year of experience in the field, I specialize in crafting delightfu
 
 <!-- - Contribution Calendar: -->
 
+<!-- project -->
+
+## 🚀 Featured Projects:
+
+### Luxe-Modern-Living-Platform
+
+- **Demo:** [Luxe Modern Living Platform](https://stellar-malasada-952ea2.netlify.app)
+- **Admin Credentials:** Email: `mglenn70@anio.site`, Password: `123456`
+- **Key Features:**
+  - Pioneered the development of Luxe, a modern living platform using React, Node.js, and MongoDB.
+  - Implemented cutting-edge features such as hassle-free coupon management, intuitive checkout processes with applied discounts, seamless agreement creation, and transparent payment history tracking.
+
+### Educoda - Assignment Management System
+
+- **Demo:** [Educoda Assignment Management System](https://fanciful-dango-1d1745.netlify.app)
+- **Key Features:**
+  - Streamlined assignment creation for educators with easy updates and deadline management.
+  - Effective submission tracking for students, with timely feedback for an enhanced learning experience.
+  - User-friendly experience with secure authentication, responsive design, and filter options.
+
+### Serfix - Automotive Marketplace
+
+- **Demo:** [Serfix Automotive Marketplace](https://sunny-klepon-b6a36d.netlify.app)
+- **Key Features:**
+  - Effortless car transactions with a diverse inventory and streamlined user authentication.
+  - User-generated transparency through reviews and ratings for informed decisions.
+  - Optimized shopping experience with responsive design and a user-friendly My Cart page.
+
+<!-- project -->
+
 # Connect with Me:
 
 <p align="center">

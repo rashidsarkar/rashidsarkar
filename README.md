@@ -93,7 +93,7 @@ With a solid year of experience in the field, I specialize in crafting delightfu
 
 <!-- project -->
 
-<!-- ## 🚀 Featured Projects:
+## 🚀 Featured Projects:
 
 ### Luxe-Modern-Living-Platform
 
@@ -126,7 +126,7 @@ With a solid year of experience in the field, I specialize in crafting delightfu
 - **Key Features:**
   - Streamlined assignment creation for educators with easy updates and deadline management.
   - Effective submission tracking for students, with timely feedback for an enhanced learning experience.
-  - User-friendly experience with secure authentication, responsive design, and filter options. -->
+  - User-friendly experience with secure authentication, responsive design, and filter options.
 
 <!-- project -->
 

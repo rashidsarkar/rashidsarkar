@@ -120,13 +120,13 @@ With a solid year of experience in the field, I specialize in crafting delightfu
   - User-generated transparency through reviews and ratings for informed decisions.
   - Optimized shopping experience with responsive design and a user-friendly My Cart page.
 
-### Educoda - Assignment Management System
+<!-- ### Educoda - Assignment Management System
 
 - **Live Site:** [Educoda Assignment Management System](https://fanciful-dango-1d1745.netlify.app)
 - **Key Features:**
   - Streamlined assignment creation for educators with easy updates and deadline management.
   - Effective submission tracking for students, with timely feedback for an enhanced learning experience.
-  - User-friendly experience with secure authentication, responsive design, and filter options.
+  - User-friendly experience with secure authentication, responsive design, and filter options. -->
 
 <!-- project -->
 

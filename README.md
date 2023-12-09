@@ -32,13 +32,35 @@ With a solid year of experience in the field, I specialize in crafting delightfu
 
 💼 **Current Stats:**
 
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=rashidsarkar&theme=prussian" alt="GitHub Streak" /></a>
+<div align="center">
+  <a href="https://git.io/streak-stats">
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=rashidsarkar&theme=prussian" alt="GitHub Streak"/>
+  </a>
+</div>
 
-**Summary of My Profile:**
+💡 **Summary of My Profile:**
 
-[![](https://raw.githubusercontent.com/rashidsarkar/rashidsarkar/master/profile-summary-card-output/discord_old_blurple/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/rashidsarkar/rashidsarkar/master/profile-summary-card-output/discord_old_blurple/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/rashidsarkar/rashidsarkar/master/profile-summary-card-output/discord_old_blurple/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/rashidsarkar/rashidsarkar/master/profile-summary-card-output/discord_old_blurple/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/rashidsarkar/rashidsarkar/master/profile-summary-card-output/discord_old_blurple/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+<div align="center">
+  <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
+    <img src="https://raw.githubusercontent.com/rashidsarkar/rashidsarkar/master/profile-summary-card-output/discord_old_blurple/0-profile-details.svg" alt="Profile Details"/>
+  </a>
+  <br/>
+  <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
+    <img src="https://raw.githubusercontent.com/rashidsarkar/rashidsarkar/master/profile-summary-card-output/discord_old_blurple/1-repos-per-language.svg" alt="Repos per Language"/>
+  </a>
+  &nbsp;
+  <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
+    <img src="https://raw.githubusercontent.com/rashidsarkar/rashidsarkar/master/profile-summary-card-output/discord_old_blurple/2-most-commit-language.svg" alt="Most Commit Language"/>
+  </a>
+  <br/>
+  <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
+    <img src="https://raw.githubusercontent.com/rashidsarkar/rashidsarkar/master/profile-summary-card-output/discord_old_blurple/3-stats.svg" alt="Stats"/>
+  </a>
+  &nbsp;
+  <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
+    <img src="https://raw.githubusercontent.com/rashidsarkar/rashidsarkar/master/profile-summary-card-output/discord_old_blurple/4-productive-time.svg" alt="Productive Time"/>
+  </a>
+</div>
 
 - Contribution Calendar:
   ![Your Contribution Calendar](https://github.com/rashidsarkar/rashidsarkar/blob/main/contribution-calendar.png)

@@ -106,7 +106,7 @@ With a solid year of experience in the field, I specialize in crafting delightfu
 
 ### Rongila - Wedding Planner Website
 
-- **Live Site:** [Rongila Wedding Planner](#)
+- **Live Site:** [Rongila Wedding Planner](https://glittering-tartufo-8f4f75.netlify.app)
 - **Key Features:**
   - Discover Dream Venues: Explore stunning wedding venues with detailed information on capacity and amenities.
   - Professional Wedding Planning: Dedicated team offering personalized services to turn your wedding vision into a reality.
